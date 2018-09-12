@@ -1,4 +1,4 @@
-# rkn-sosatb
+# sosatb
 Remove age verification system form PornHub for Russian users.
 
 # How to use it?
