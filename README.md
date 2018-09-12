@@ -1,16 +1,18 @@
 # rkn-sosatb
-Remove auth form PornHub for Russian users.
+Remove age verification system form PornHub for Russian users.
 
+# How to use it?
 
-# Code
+So, it's easy. Just copy this code and paste it to conslove of your browser.
 
 ```js
 (function roskomnadzorSosatb() {
     var ids = ['container', 'wrapper']
-    for (var i in ids) {
-        var elementID = 'age-verification-' + ids[i];
-        var element = document.getElementById(elementID);
-        element.parentNode.removeChild(element);
-    }
+    ids.forEach(function(id) {
+        document.getElementById('age-verification-' + id).outerHTML = "";
+    });
 })()
 ```
+
+# LICENSE
+Lol, do what the fuck you want.
