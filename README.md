@@ -9,16 +9,16 @@
   <img src="https://user-images.githubusercontent.com/15812620/45451528-08215100-b6e4-11e8-92c3-2161e773ef58.png"/>
 </p>
 
-**RU**: Удаляет форму потверждения возраста через [VK.com](http://vk.com) с сайта PornHub. <br>
-**EN**: Removes annoying age verification system based on [VK.com](http://vk.com) from PornHub for Russian users.
+🇷🇺: Удаляет форму потверждения возраста через [VK.com](http://vk.com) с сайта PornHub. <br>
+🇺🇸: Removes annoying age verification system based on [VK.com](http://vk.com) from PornHub for Russian users.
 
 # Attention (in Russian)
 Проект разработан исключительно в научных целях и исключительно во благо общества и общественной справедливости. Данный проект поддерживаю не я, а знакомый брата моего друга, потому все вопросы к нему, но он сейчас в отпуск уехал, поэтому не ищите его  пожалусто.
 
 # How to use it?
 
-**RU**: Просто скопируйте код, что приведен ниже и вставьте его в [консоль](https://bit.ly/2xaQQHG) вашего браузера.<br>
-**EN**: So, it's easy. Just copy this code and paste it to [console](https://bit.ly/2NFD5Lo) of your browser.
+🇷🇺: Просто скопируйте код, что приведен ниже и вставьте его в [консоль](https://bit.ly/2xaQQHG) вашего браузера.<br>
+🇺🇸: So, it's easy. Just copy this code and paste it to [console](https://bit.ly/2NFD5Lo) of your browser.
 
 ```js
 (function roskomnadzorSosatb() {
@@ -29,8 +29,8 @@
 ```
 
 # Disclaimer
-**RU**: Автор не несет ответственности за то, как вы будете использовать этот код и за то, как вы будете использовать свои руки после вставки этого кода в консоль браузера. Код разработан исключительно для научных целей. <br>
-**EN**: The authors assume no responsibility for how you use this code and how you use your hands after pasting this code to browser's console. This code is designed only for scientific purposes. 
+🇷🇺: Автор не несет ответственности за то, как вы будете использовать этот код и за то, как вы будете использовать свои руки после вставки этого кода в консоль браузера. Код разработан исключительно для научных целей. <br>
+🇺🇸: The authors assume no responsibility for how you use this code and how you use your hands after pasting this code to browser's console. This code is designed only for scientific purposes. 
 
 
 # LICENSE
