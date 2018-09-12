@@ -15,8 +15,7 @@ So, it's easy. Just copy this code and paste it to console of your browser.
 
 ```js
 (function roskomnadzorSosatb() {
-    var ids = ['container', 'wrapper']
-    ids.forEach(function(id) {
+    ['container', 'wrapper'].forEach(function(id) {
         document.getElementById('age-verification-' + id).outerHTML = "";
     });
 })()
