@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/15812620/45451528-08215100-b6e4-11e8-92c3-2161e773ef58.png"/>
 </p>
 
-Remove age verification system form PornHub for Russian users. Роскомнадзор состатб!
+Removes annoying age verification system based on VK.com from PornHub for Russian users.
 
 # Attention (in Russian)
 Проект разработан исключительно в научных целях и исключительно во благо общества и общественной справедливости. Данный проект поддерживаю не я, а брат моего знакомого друга, потому все вопросы к нему, но он сейчас в отпуск уехал, поэтому не ищите его  пожалусто.
