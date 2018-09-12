@@ -22,4 +22,4 @@ So, it's easy. Just copy this code and paste it to console of your browser.
 ```
 
 # LICENSE
-Do what the fuck you want.
+Do what the fuck you want. I mean do what the fuck you want with the project above, not in actual life, because some things in real life can be illegal.
