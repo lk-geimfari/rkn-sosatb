@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15812620/45451528-08215100-b6e4-11e8-92c3-2161e773ef58.png"/>
+  <img src="https://user-images.githubusercontent.com/15812620/45454205-c1375980-b6eb-11e8-94fa-4556b55b8f9b.png"/>
 </p>
 
 🇷🇺: Удаляет форму потверждения возраста через [VK.com](http://vk.com) с сайта PornHub. <br>
