@@ -28,5 +28,10 @@
 })()
 ```
 
+# Disclaimer
+**RU**: Автор не несет ответственности за то, как вы будете использовать этот код и за то, как вы будете использовать свои руки после вставки этого кода в консоль браузера. Код разработан исключительно для научных целей. <br>
+**EN**: The authors assume no responsibility for how you use this code and how you use your hands after pasting this code to browser's console. This code is designed only for scientific purposes. 
+
+
 # LICENSE
 Do what the fuck you want. I mean do what the fuck you want with the project above, not in actual life, because some things in real life can be illegal.
