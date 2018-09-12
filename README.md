@@ -11,7 +11,7 @@ Remove age verification system form PornHub for Russian users. Роскомна�
 
 # How to use it?
 
-So, it's easy. Just copy this code and paste it to conslove of your browser.
+So, it's easy. Just copy this code and paste it to console of your browser.
 
 ```js
 (function roskomnadzorSosatb() {
@@ -23,4 +23,4 @@ So, it's easy. Just copy this code and paste it to conslove of your browser.
 ```
 
 # LICENSE
-Lol, do what the fuck you want.
+Do what the fuck you want.
